@@ -17,7 +17,7 @@ Sophie Bennet'in macerası: Kayıp Piramitlerin Sırrı
 
 ## Product Backlog URL
 
-[Unity Team 118 Miro Backlog Board]([https://miro.com/app/board/uXjVO4kRs2w=/](https://miro.com/app/board/uXjVM_qYxF4=/?share_link_id=168009868470))
+[Unity Team 118 Miro Backlog Board] [(https://miro.com/app/board/uXjVM_qYxF4=/?share_link_id=168009868470)]
 
 ## Ürün Açıklaması
 

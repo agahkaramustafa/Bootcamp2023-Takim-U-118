@@ -38,3 +38,4 @@ Sophie Bennet, piramitlerin sırlarını çözmeye çalışan bir arkeologdur. B
 ![WhatsApp Image 2023-06-19 at 09 48 24](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/96539896/1edb9133-7245-4e51-8f91-d6edbea47bef)
 ![WhatsApp Image 2023-06-19 at 09 58 29](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/96539896/2102814c-565c-4f57-b3c9-374c0d8222b2)
 ![WhatsApp Image 2023-06-19 at 09 51 52](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/96539896/ded8cfd4-85c9-4dd1-a81a-eee963b06ec8)
+![WhatsApp Image 2023-06-19 at 09 48 58](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/96539896/365a85d9-0617-4fdb-b0a6-3ae463841642)

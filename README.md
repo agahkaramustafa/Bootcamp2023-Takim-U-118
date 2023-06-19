@@ -39,7 +39,7 @@ Sophie Bennet, piramitlerin sırlarını çözmeye çalışan bir arkeologdur. B
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 1000 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 300 ile başlaması gerektiğine karar verildi. Ancak bu yük ilk sprintte azaltılıp sonraki sprintlere eklendi.
 - Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 - Daily Scrum: Daily Scrum'lar her sabah saat 10:00'da Whatsapp üzerinden yapılmıştır. Toplantı her gün 15 dakika sürmüştür ve yazılı notlar alınmıştır.
-- Sprint Review: Daily Scrum'ların Discord üzerinden yapılıp not alınmasına karar verildi. Katılımcılar: tüm ekip
+- Sprint Review: Daily Scrum'ların Whatsapp üzerinden 2 günde 1 yapılıp not alınmasına karar verildi. Katılımcılar: tüm ekip
 - Sprint Retrospective:
 - 1. Bu hafta birbirimizle iletişimde zorluk yaşadık ve beklediğimizden yavaş ilerledik. Bundan sonrası için herkesin iletişim kuramayacaksa bir gün önceden haber vemesi kararlaştırıldı.
   2. Ayırdığımız zamanın artırılmasına karar verildi.

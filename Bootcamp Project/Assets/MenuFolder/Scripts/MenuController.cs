@@ -34,7 +34,6 @@ public class MenuController : MonoBehaviour
         resolutionDropdown.ClearOptions();
 
         List<string> options = new List<string>();
-
         int currentResolutionIndex = 0;
 
         for (int i = 0; i < resolutions.Length; i++)

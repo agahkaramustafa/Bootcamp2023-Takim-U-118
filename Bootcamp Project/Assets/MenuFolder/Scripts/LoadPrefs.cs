@@ -18,7 +18,8 @@ public class LoadPrefs : MonoBehaviour
     {
         LoadPlayerPrefs();
     }
-    private void LoadPlayerPrefs()
+
+   private void LoadPlayerPrefs()
     {
         if (PlayerPrefs.HasKey("masterVolume"))
         {

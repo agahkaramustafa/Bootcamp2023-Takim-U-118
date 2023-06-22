@@ -283,8 +283,8 @@ RectTransform:
   m_Father: {fileID: 843219682}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1734,8 +1734,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -412.96997, y: -293.29755}
-  m_SizeDelta: {x: -1224.8, y: -984.175}
+  m_AnchoredPosition: {x: -438.36, y: -342.6703}
+  m_SizeDelta: {x: -1275.6, y: -1351.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &195134530
 MonoBehaviour:
@@ -3041,8 +3041,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -412.96997, y: 108.79999}
-  m_SizeDelta: {x: -1224.8, y: -980.4598}
+  m_AnchoredPosition: {x: -438.36, y: 73.76567}
+  m_SizeDelta: {x: -1275.6, y: -1350.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &461126913
 MonoBehaviour:
@@ -4383,7 +4383,7 @@ RectTransform:
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -4461,8 +4461,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -412.96997, y: 308.59}
-  m_SizeDelta: {x: -1224.8, y: -984.87}
+  m_AnchoredPosition: {x: -438.34998, y: 274.65942}
+  m_SizeDelta: {x: -1275.6, y: -1351.756}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &580887088
 MonoBehaviour:
@@ -5199,8 +5199,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 547.03, y: 7.4717}
-  m_SizeDelta: {x: 695.2, y: 697.37}
+  m_AnchoredPosition: {x: 521.65, y: -49.714}
+  m_SizeDelta: {x: 644.43, y: 932.39}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &630956475
 MonoBehaviour:
@@ -6462,7 +6462,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &908707293
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10220,8 +10220,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -412.96997, y: -91.26019}
-  m_SizeDelta: {x: -1224.8, y: -977.1665}
+  m_AnchoredPosition: {x: -438.34998, y: -135.4986}
+  m_SizeDelta: {x: -1275.6, y: -1350.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1558833417
 MonoBehaviour:
@@ -11545,17 +11545,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ce5d9655034c074e92c7d4e89aec84a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canUse: 1
-  menuController: {fileID: 1778492100}
   volumeTextValue: {fileID: 241388646}
-  volumeSlider: {fileID: 0}
-  brightnessSlider: {fileID: 0}
-  brightnesstextValue: {fileID: 0}
-  qualityDropdown: {fileID: 0}
-  fullScreenToggle: {fileID: 0}
-  controllerSenTextValue: {fileID: 0}
-  controllerSenSlider: {fileID: 0}
-  invertYToggle: {fileID: 0}
+  volumeSlider: {fileID: 1161110709}
+  brightnessSlider: {fileID: 1229574683}
+  brightnessTextValue: {fileID: 1377749611}
+  qualityDropdown: {fileID: 1354504252}
+  fullscreenToggle: {fileID: 1585106083}
+  controllerSenTextValue: {fileID: 1867832186}
+  controllerSenSlider: {fileID: 986263586}
+  invertYToggle: {fileID: 118602242}
 --- !u!4 &1739679209
 Transform:
   m_ObjectHideFlags: 0
@@ -11818,7 +11816,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   volumeTextValue: {fileID: 1867832186}
   volumeSlider: {fileID: 1161110709}
-  defualtVolume: 1
+  defaultVolume: 1
   controllerSenTextValue: {fileID: 1867832186}
   controllerSenSlider: {fileID: 986263586}
   defaultSen: 4
@@ -11826,11 +11824,11 @@ MonoBehaviour:
   invertYToggle: {fileID: 118602242}
   brightnessSlider: {fileID: 1229574683}
   brightnessTextValue: {fileID: 1377749611}
-  defualtBrightness: 1
+  defaultBrightness: 1
   qualityDropdown: {fileID: 1354504252}
-  fullScreenToggle: {fileID: 1585106083}
+  fullscreenToggle: {fileID: 0}
   confirmationPrompt: {fileID: 406128371}
-  _newGameLevel: Level1
+  newGameLevel: Level1
   noSavedGameDialog: {fileID: 1530383095}
   resolutionDropdown: {fileID: 1398086649}
 --- !u!4 &1778492101
@@ -11948,7 +11946,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1834624600
 RectTransform:
   m_ObjectHideFlags: 0

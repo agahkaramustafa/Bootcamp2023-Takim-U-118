@@ -163,7 +163,7 @@ public class MenuController : MonoBehaviour
 
     
 
-    public void ResetButoon(string  MenuType)
+    public void ResetButton(string  MenuType)
     {
         if(MenuType == "Graphics")
         {

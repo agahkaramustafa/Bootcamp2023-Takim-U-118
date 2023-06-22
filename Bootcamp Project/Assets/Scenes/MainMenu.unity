@@ -2888,7 +2888,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -7.5, y: -0.5}
+  m_AnchoredPosition: {x: -7.5, y: -0.4999981}
   m_SizeDelta: {x: -35, y: -13}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &457764920
@@ -8074,7 +8074,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -7.5, y: -0.5}
+  m_AnchoredPosition: {x: -7.4999847, y: -0.5}
   m_SizeDelta: {x: -35, y: -13}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1175275999
@@ -11673,13 +11673,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   volumeTextValue: {fileID: 1365123059}
   volumeSlider: {fileID: 1161110709}
-  brightnessSlider: {fileID: 1229574683}
-  brightnessTextValue: {fileID: 1377749611}
   qualityDropdown: {fileID: 1354504252}
   fullscreenToggle: {fileID: 1585106083}
-  controllerSenTextValue: {fileID: 1867832186}
-  controllerSenSlider: {fileID: 986263586}
-  invertYToggle: {fileID: 118602242}
 --- !u!4 &1739679209
 Transform:
   m_ObjectHideFlags: 0
@@ -11944,14 +11939,6 @@ MonoBehaviour:
   volumeTextValue: {fileID: 1365123059}
   volumeSlider: {fileID: 1161110709}
   defaultVolume: 1
-  controllerSenTextValue: {fileID: 1867832186}
-  controllerSenSlider: {fileID: 986263586}
-  defaultSen: 4
-  mainControllerSen: 4
-  invertYToggle: {fileID: 118602242}
-  brightnessSlider: {fileID: 1229574683}
-  brightnessTextValue: {fileID: 1377749611}
-  defaultBrightness: 1
   qualityDropdown: {fileID: 1354504252}
   fullscreenToggle: {fileID: 1585106083}
   confirmationPrompt: {fileID: 406128371}

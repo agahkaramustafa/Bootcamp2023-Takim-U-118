@@ -12,27 +12,9 @@ public class MenuController : MonoBehaviour
     [SerializeField] private Slider volumeSlider;
     [SerializeField] private float defaultVolume = 1.0f;
 
-    [Header("Gameplay Settings")]
-    [SerializeField] private TMP_Text controllerSenTextValue;
-    [SerializeField] private Slider controllerSenSlider;
-    [SerializeField] private int defaultSen = 4;
-    public int mainControllerSen = 4;
-
-    [Header("Toggle Settings")]
-    [SerializeField] private Toggle invertYToggle;
-
     [Header("Graphics Settings")]
-    [SerializeField] private Slider brightnessSlider;
-    [SerializeField] private TMP_Text brightnessTextValue;
-    [SerializeField] private float defaultBrightness = 1;
-
-    [Space(10)]
     [SerializeField] private TMP_Dropdown qualityDropdown;
     [SerializeField] private Toggle fullscreenToggle;
-
-    private int _qualityLevel;
-    private bool _isFullscreen;
-    private float _brightnessLevel;
 
     [Header("Confirmation")]
     [SerializeField] private GameObject confirmationPrompt;
@@ -74,7 +56,7 @@ public class MenuController : MonoBehaviour
     public void SetResolution(int resolutionIndex)
     {
         Resolution resolution = resolutions[resolutionIndex];
-        Screen.SetResolution(resolution.width, resolution.height, _isFullscreen);
+        Screen.SetResolution(resolution.width, resolution.height, Screen.fullScreen);
     }
 
     public void NewGameDialogYes()
@@ -112,33 +94,12 @@ public class MenuController : MonoBehaviour
         StartCoroutine(ConfirmationBox());
     }
 
-    public void SetControllerSen(float sensitivity)
-    {
-        mainControllerSen = Mathf.RoundToInt(sensitivity);
-        controllerSenTextValue.text = sensitivity.ToString("0");
-    }
-
-    public void GameApply()
-    {
-        PlayerPrefs.SetInt("masterInvertY", invertYToggle.isOn ? 1 : 0);
-        PlayerPrefs.SetFloat("masterSen", mainControllerSen);
-        StartCoroutine(ConfirmationBox());
-    }
-
-    public void SetBrightness(float brightness)
-    {
-        _brightnessLevel = brightness;
-        brightnessTextValue.text = brightness.ToString("0.0");
-    }
-
     public void GraphicsApply()
     {
         PlayerPrefs.SetInt("masterQuality", qualityDropdown.value);
-        PlayerPrefs.SetFloat("masterBrightness", _brightnessLevel);
         PlayerPrefs.SetInt("masterFullscreen", fullscreenToggle.isOn ? 1 : 0);
         StartCoroutine(ConfirmationBox());
     }
-
     public void ResetButton(string setting)
     {
         switch (setting)
@@ -146,11 +107,7 @@ public class MenuController : MonoBehaviour
             case "Audio":
                 volumeSlider.value = defaultVolume;
                 break;
-            case "Gameplay":
-                controllerSenSlider.value = defaultSen;
-                break;
             case "Graphics":
-                brightnessSlider.value = defaultBrightness;
                 qualityDropdown.value = QualitySettings.GetQualityLevel();
                 fullscreenToggle.isOn = Screen.fullScreen;
                 break;

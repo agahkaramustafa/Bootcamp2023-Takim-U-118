@@ -62,7 +62,7 @@ https://docs.google.com/document/d/1k1hdrGL7ASN72qVH9vF-Jrr4kWLwRrkBef_XqXqMjhM/
 - Sprint Retrospective:
 - 1. Araya giren tatil sebebiyle bir takım iletişim sorunları yaşadık. Sonraki sprint için toplantıların sıklığını artırmaya karar verdik.
   2. Ayırdığımız zamanın artırılmasına ve günlük veya 2-3 günde bir ilerleme bildirimi yapılmasına karar verdik.
-  3. Bir sonraki sprintte daha çok level tasarımı üzerinde durulmasına karar verdik..
+  3. Bir sonraki sprintte daha çok level tasarımı üzerinde durulmasına karar verdik.
 ![09df25dc-a489-4696-8c11-5d9e54c897d6](https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118/assets/92624533/94b1997e-44d8-4bc6-b424-501651a82e01)
 ![5e84d0ae-c3c9-47c3-be52-a01be972a311](https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118/assets/92624533/e6fc6ab3-8de3-44cc-a21e-bd24d1adb49d)
 ![f17f0a91-aa38-43fe-885a-a1edf6c3c58e](https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118/assets/92624533/6a00a9fb-65d2-484b-809b-36331c6a6b9e)

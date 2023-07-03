@@ -50,3 +50,20 @@ https://docs.google.com/document/d/1UFUK8veBaf0RiBg6nPz7V44k6OFVedxUYfTKi48rqJE/
 ![WhatsApp Image 2023-06-19 at 09 58 29](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/96539896/2102814c-565c-4f57-b3c9-374c0d8222b2)
 ![WhatsApp Image 2023-06-19 at 09 51 52](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/96539896/ded8cfd4-85c9-4dd1-a81a-eee963b06ec8)
 ![WhatsApp Image 2023-06-19 at 09 48 58](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/96539896/365a85d9-0617-4fdb-b0a6-3ae463841642)
+
+# **Sprint 2**
+- Sprint Notları:User storyler backloglara yerleştirildi. Sprint 2 de sahne tasarımı üzerine yoğunlaşıldı.
+-  Tamamlanması tahmin edilen puan: 400 puan
+- Puan tamamlama mantığı: 2. sprint için toplam tamamlanması gereken 400 puan bulunmaktadır. Hedeflenen backlogların ½60 kısmı halledilip bir kısmı ise yapılma aşamasında olduğu için bu sprintte 250 puan toplandı.
+- Backlog düzeni: Bu sprintte backlog düzeni level tasarımlarının tasklarının oluşturulmasına ve iş bölümüne gidilecek şekilde düzenlenmiştir.
+- Daily Scrum: Daily Scrum'lar her sabah olmasa da gruptaki kişilerin müsaitlik durumuna göre en azından haftada bir kaç kere gidişatın konuşulması adına düzenlendi. Geri kalan zamanlarda Discord ve whatsapp gruplarında iletişim halinde kalındı. Toplantılar genelde 30 dakika şeklinde yapıldı ve notlar alındı.
+https://docs.google.com/document/d/1k1hdrGL7ASN72qVH9vF-Jrr4kWLwRrkBef_XqXqMjhM/edit?usp=sharing
+- Sprint Review: Levellerin tasarım taslağı oluşturuldu. Giriş ekranı tasarlandı ve giriş ekranı için müzik belirlendi. Oyun içi görev dağılımı yapıldı. Leveller için texture belirlendi. Leveller için kodlamaya başlandı.
+- Sprint Retrospective:
+- 1. Araya giren tatil sebebiyle bir takım iletişim sorunları yaşadık. Sonraki sprint için toplantıların sıklığını artırmaya karar verdik.
+  2. Ayırdığımız zamanın artırılmasına ve günlük veya 2-3 günde bir ilerleme bildirimi yapılmasına karar verdik.
+  3. Bir sonraki sprintte daha çok level tasarımı üzerinde durulmasına karar verdik.
+![09df25dc-a489-4696-8c11-5d9e54c897d6](https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118/assets/92624533/94b1997e-44d8-4bc6-b424-501651a82e01)
+![5e84d0ae-c3c9-47c3-be52-a01be972a311](https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118/assets/92624533/e6fc6ab3-8de3-44cc-a21e-bd24d1adb49d)
+![f17f0a91-aa38-43fe-885a-a1edf6c3c58e](https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118/assets/92624533/6a00a9fb-65d2-484b-809b-36331c6a6b9e)
+

@@ -66,4 +66,8 @@ https://docs.google.com/document/d/1k1hdrGL7ASN72qVH9vF-Jrr4kWLwRrkBef_XqXqMjhM/
 ![09df25dc-a489-4696-8c11-5d9e54c897d6](https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118/assets/92624533/94b1997e-44d8-4bc6-b424-501651a82e01)
 ![5e84d0ae-c3c9-47c3-be52-a01be972a311](https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118/assets/92624533/e6fc6ab3-8de3-44cc-a21e-bd24d1adb49d)
 ![f17f0a91-aa38-43fe-885a-a1edf6c3c58e](https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118/assets/92624533/6a00a9fb-65d2-484b-809b-36331c6a6b9e)
+![Desktop_Screenshot_2023 07 03_-_09 38 58 17](https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118/assets/92624533/abda928d-35a9-4085-bfc5-c6046809757d)
+![Desktop_Screenshot_2023 07 03_-_09 39 56 14](https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118/assets/92624533/9fc28092-9927-40ee-9efe-47f276890e2e)
+![Desktop_Screenshot_2023 07 03_-_09 40 28 01](https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118/assets/92624533/1634f0e3-90f2-401f-b6c7-7bde18741f94)
+![Desktop_Screenshot_2023 07 03_-_09 40 58 90](https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118/assets/92624533/ca5d0294-5df9-415f-842c-4194c9b585ef)
 

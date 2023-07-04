@@ -82,7 +82,8 @@ https://miro.com/app/board/uXjVM_qYxF4=/
 ![image](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/92624533/13b54a28-0108-44eb-9959-4da8cf662321)
 ![58c688bd-e074-4620-a937-01a49b974c2c](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/92624533/6ab90b09-8e88-42e1-a479-1b2492cc32e8)
 ![b6f9b873-737f-4d10-9fc9-dae93d727ff8](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/92624533/28a104e4-f1fd-4eb8-a848-b21dc04da2b7)
-![image](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/92624533/fa85056b-456b-40b6-b4cc-adbfa0ad1b84)
+![image](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/92624533/f0a3bece-e758-4571-9fb6-ec98007c83ee)
+
 ![image](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/92624533/d413b4be-7f57-47cd-92d8-04dcbd8734e8)
 
 ![447ae640-b224-42f4-b0cb-2c15549af78c](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/92624533/9094a3e8-76e2-453c-bec1-3619000d4922)

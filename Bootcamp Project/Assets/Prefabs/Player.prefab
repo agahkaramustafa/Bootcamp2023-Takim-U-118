@@ -97,6 +97,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.449
       objectReference: {fileID: 0}
+    - target: {fileID: 2832515420397351593, guid: e2f5f138574649a428fc6cd31b834d8d,
+        type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4164114622460373647, guid: e2f5f138574649a428fc6cd31b834d8d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4164114622460373647, guid: e2f5f138574649a428fc6cd31b834d8d,
+        type: 3}
+      propertyPath: m_TagString
+      value: Sword
+      objectReference: {fileID: 0}
     - target: {fileID: 7149967458763860659, guid: e2f5f138574649a428fc6cd31b834d8d,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -106,6 +121,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Holdables
+      objectReference: {fileID: 0}
+    - target: {fileID: 7313178316784609714, guid: e2f5f138574649a428fc6cd31b834d8d,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

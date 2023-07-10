@@ -23,7 +23,7 @@ public class Enemy : MonoBehaviour
             if (other.CompareTag("Sword") && !hitOneTime)
             {
                 // Deal damage
-                Debug.Log("Enemy hit succesfull");
+                Debug.Log("Enemy hit succesful");
                 hitOneTime = true;
             }
         }
@@ -38,7 +38,7 @@ public class Enemy : MonoBehaviour
         if (other.CompareTag("Sword"))
             {
                 // Deal damage
-                Debug.Log("Enemy hit reset succesfull");
+                Debug.Log("Enemy hit reset succesful");
                 hitOneTime = false;
             }
     }

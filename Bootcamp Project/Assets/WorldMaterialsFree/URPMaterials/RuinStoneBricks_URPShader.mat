@@ -112,7 +112,11 @@ Material:
     - _TessMax: 25
     - _TessMin: 10
     - _TessValue: 16
+<<<<<<< HEAD
     - _Tile: 2.82
+=======
+    - _Tile: 1
+>>>>>>> 686dc14d5eb22818ede6fe631203c66a78d7f76b
     - _UVSec: 0
     - _ZWrite: 1
     - __dirty: 0

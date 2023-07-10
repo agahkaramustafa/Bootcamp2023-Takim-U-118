@@ -63,6 +63,9 @@ https://docs.google.com/document/d/1UFUK8veBaf0RiBg6nPz7V44k6OFVedxUYfTKi48rqJE/
 - Daily Scrum: Daily Scrum'lar her sabah olmasa da gruptaki kişilerin müsaitlik durumuna göre en azından haftada bir kaç kere gidişatın konuşulması adına düzenlendi. Geri kalan zamanlarda Discord ve whatsapp gruplarında iletişim halinde kalındı. Toplantılar genelde 30 dakika şeklinde yapıldı ve notlar alındı.
 
 https://docs.google.com/document/d/1k1hdrGL7ASN72qVH9vF-Jrr4kWLwRrkBef_XqXqMjhM/edit?usp=sharing
+
+https://miro.com/app/board/uXjVM_qYxF4=/
+
 - Sprint Review: Levellerin tasarım taslağı oluşturuldu. Giriş ekranı tasarlandı ve giriş ekranı için müzik belirlendi. Oyun içi görev dağılımı yapıldı. Leveller için texture belirlendi. Leveller için kodlamaya başlandı.
 - Sprint Retrospective:
 - 1. Araya giren tatil sebebiyle bir takım iletişim sorunları yaşadık. Sonraki sprint için toplantıların sıklığını artırmaya karar verdik.
@@ -79,5 +82,13 @@ https://docs.google.com/document/d/1k1hdrGL7ASN72qVH9vF-Jrr4kWLwRrkBef_XqXqMjhM/
 ![image](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/92624533/13b54a28-0108-44eb-9959-4da8cf662321)
 ![58c688bd-e074-4620-a937-01a49b974c2c](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/92624533/6ab90b09-8e88-42e1-a479-1b2492cc32e8)
 ![b6f9b873-737f-4d10-9fc9-dae93d727ff8](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/92624533/28a104e4-f1fd-4eb8-a848-b21dc04da2b7)
+![image](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/92624533/f0a3bece-e758-4571-9fb6-ec98007c83ee)
+
+![image](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/92624533/d413b4be-7f57-47cd-92d8-04dcbd8734e8)
+
+![447ae640-b224-42f4-b0cb-2c15549af78c](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/92624533/9094a3e8-76e2-453c-bec1-3619000d4922)
+
+![8b5f38a2-e10b-4aeb-b0d2-fa5bbc4c265d](https://github.com/agahkaramustafa/Bootcamp2023-Takim-U-118/assets/92624533/1de087e9-cbd2-44cc-bc5c-5f31aba3dda9)
+
 
 

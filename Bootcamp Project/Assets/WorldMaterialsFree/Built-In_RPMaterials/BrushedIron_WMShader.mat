@@ -2,20 +2,6 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-<<<<<<< HEAD
-  serializedVersion: 8
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: BrushedIron_WMShader
-  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
-  m_Parent: {fileID: 2100000, guid: 9af34721d62dd804da5c720b8325b5d3, type: 2}
-  m_ModifiedSerializedProperties: 2
-  m_ValidKeywords: []
-  m_InvalidKeywords:
-  - _EMISSION
-=======
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -23,19 +9,12 @@ Material:
   m_Name: BrushedIron_WMShader
   m_Shader: {fileID: 4800000, guid: 02f9653e969ec11459c0ebb367b07cb8, type: 3}
   m_ShaderKeywords: _EMISSION
->>>>>>> 686dc14d5eb22818ede6fe631203c66a78d7f76b
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
-<<<<<<< HEAD
-  m_LockedProperties: 
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-=======
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -47,13 +26,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 450abdfc31012ee45a60a12a63706bdd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
->>>>>>> 686dc14d5eb22818ede6fe631203c66a78d7f76b
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-<<<<<<< HEAD
-=======
     - _DetailAlbedoMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -74,29 +50,22 @@ Material:
         m_Texture: {fileID: 2800000, guid: ed75473234df47c4cb1b631ffd55f38f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
->>>>>>> 686dc14d5eb22818ede6fe631203c66a78d7f76b
     - _MainTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-<<<<<<< HEAD
-=======
     - _Metallic:
         m_Texture: {fileID: 2800000, guid: be2f8d770f6be0d4fae301de933abab6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
->>>>>>> 686dc14d5eb22818ede6fe631203c66a78d7f76b
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-<<<<<<< HEAD
-=======
     - _Normal:
         m_Texture: {fileID: 2800000, guid: 7d93ec18be30d0340b3270211bba118f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
->>>>>>> 686dc14d5eb22818ede6fe631203c66a78d7f76b
     - _OcclusionMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -105,12 +74,6 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-<<<<<<< HEAD
-    m_Ints: []
-    m_Floats: []
-    m_Colors: []
-  m_BuildTextureStacks: []
-=======
     - _Smoothness:
         m_Texture: {fileID: 2800000, guid: 8113a93f4bc2dc04badf36c17127e5e5, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -148,4 +111,3 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _ColorTint: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
->>>>>>> 686dc14d5eb22818ede6fe631203c66a78d7f76b

@@ -5,7 +5,11 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     private PlayerHitProcess playerHitProcessScript;
-    private bool hitOneTime = false;
+    private EnemyHealth enemyHealthScript;
+    private bool allowHit = true;
+    private int playerDamage = 5;
+
+    private WaitForSeconds takenDamageWait = new WaitForSeconds(.8f);
 
     /// <summary>
     /// Start is called on the frame when a script is enabled just before
@@ -14,33 +18,27 @@ public class Enemy : MonoBehaviour
     private void Start()
     {
         playerHitProcessScript = FindObjectOfType<PlayerHitProcess>();
+        enemyHealthScript = GetComponent<EnemyHealth>();
     }
 
     private void OnTriggerEnter(Collider other)
     {
         if (playerHitProcessScript.Hit1Activated || playerHitProcessScript.Hit2Activated)
         {
-            if (other.CompareTag("Sword") && !hitOneTime)
+            if (other.CompareTag("Sword") && allowHit)
             {
-                // Deal damage
+                enemyHealthScript.TakeDamage(playerDamage);
+                StartCoroutine(nameof(ToggleAllowHitRoutine));
                 Debug.Log("Enemy hit succesful");
-                hitOneTime = true;
             }
         }
     }
 
-    /// <summary>
-    /// OnTriggerExit is called when the Collider other has stopped touching the trigger.
-    /// </summary>
-    /// <param name="other">The other Collider involved in this collision.</param>
-    private void OnTriggerExit(Collider other)
+    IEnumerator ToggleAllowHitRoutine()
     {
-        if (other.CompareTag("Sword"))
-            {
-                // Deal damage
-                Debug.Log("Enemy hit reset succesful");
-                hitOneTime = false;
-            }
+        allowHit = false;
+        yield return takenDamageWait;
+        allowHit = true;
     }
 
 }

@@ -4,11 +4,14 @@ using UnityEngine;
 
 public class EnemyHealth : MonoBehaviour
 {
-    [SerializeField] int enemyHealth = 100;
+    [SerializeField] float enemyMaxHealth = 100;
 
     Animator anim;
     EnemyAI enemyAI;
     Collider m_collider;
+    HealthBar healthBarScript;
+
+    private float currentHealth;
 
     /// <summary>
     /// Start is called on the frame when a script is enabled just before
@@ -16,16 +19,23 @@ public class EnemyHealth : MonoBehaviour
     /// </summary>
     private void Start()
     {
+        currentHealth = enemyMaxHealth;
         anim = GetComponent<Animator>();
         enemyAI = GetComponent<EnemyAI>();
         m_collider = GetComponent<Collider>();
+        healthBarScript = GetComponentInChildren<HealthBar>();
+
+        healthBarScript.UpdateHealthBar(enemyMaxHealth, currentHealth);
     }
 
     public void TakeDamage(int damage)
     {
-        enemyHealth -= damage;
+        currentHealth -= damage;
 
-        if (enemyHealth <= 0)
+        healthBarScript.UpdateHealthBar(enemyMaxHealth, currentHealth);
+        anim.SetTrigger("Reaction");
+
+        if (currentHealth <= 0)
         {
             Die();
         }
@@ -34,6 +44,7 @@ public class EnemyHealth : MonoBehaviour
     private void Die()
     {
         anim.SetTrigger("Die");
+        healthBarScript.gameObject.SetActive(false);
         enemyAI.enabled = false;
         m_collider.enabled = false;
     }
